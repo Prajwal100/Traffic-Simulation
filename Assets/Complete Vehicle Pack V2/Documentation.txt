@@ -1,0 +1,13 @@
+Thank you for purchasing Complete Vehicle Pack V2!
+
+The assets are very simple to use, just drag and drop one of the prefabs into a scene.
+Every car has the wheels separated, with centered pivot points. The wheels have wheel collider components atached to them, but will require further tweaking in order to work properly.
+
+The naming convention uses the ".L" and ".R" suffixes for wheels on the left-hand side and right-hand side respectively.
+Example: the wheel on the front right of the vehicle uses the name "Wheel_Front.R"
+
+Some of the vehicles have moving parts, such as propellers, trunk doors, truck cabins, even a satellite dish. It's easy to edit their position, by selecting them from the objects hierarchy.
+
+There are a total of 39 prefabs, 36 of which are vehicles, 2 of which are cargo boxes for the trucks and pick-ups. An external trunk was added to attach to the vehicles as you please.
+
+The helicopters have idle animations for the propellers, and the news van has an idle animation for it's satellite dish.
